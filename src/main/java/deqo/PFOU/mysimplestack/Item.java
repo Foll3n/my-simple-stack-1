@@ -5,6 +5,9 @@ public class Item {
     private int amount;
     private String value;
 
+    /**
+     * Intervention
+     */
 
     public Item(int amount, String value) {
         this.amount = amount;
