@@ -15,7 +15,7 @@ public class SimpleStack implements ISimpleStack {
      * Tests if this stack is empty
      */
     public boolean isEmpty(){
-	System.out.println("is stack empty ????????");
+	System.out.println("is stack empty ???????? nnnnnnnnnnnnnnnn");
         return stack.isEmpty();
     }
     /**
