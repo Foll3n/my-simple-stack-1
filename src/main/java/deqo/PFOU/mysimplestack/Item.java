@@ -6,7 +6,7 @@ public class Item {
     private String value;
 
     /**
-     * Intervention
+     * Intervention blabla
      */
 
     public Item(int amount, String value) {
