@@ -7,6 +7,13 @@ public class SimpleStack implements ISimpleStack {
 
     private LinkedList<Item> stack;
 
+    /**
+     * J'ai rajouté ceci
+     */
+    /**
+     * Et ça
+     */
+
     public SimpleStack() {
         this.stack = new LinkedList<>();
     }
